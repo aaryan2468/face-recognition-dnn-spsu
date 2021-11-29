@@ -1,6 +1,6 @@
 Minor Project Code
 
-to install all requirements use
+to install all requirements
 -> pip install -r requirements.txt
 
 to run the application
